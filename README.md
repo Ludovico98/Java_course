@@ -4,13 +4,13 @@ This repo shows the projects and challenges I have taken during this course: htt
 
 Here's the list of the main topics:
 
-Introduction
-Control statments
-Array
-ArrayList
-String Builder
-Methods
-OOP
-FileIO_Exceptions
+Introduction /
+Control statments /
+Array /
+ArrayList /
+String Builder /
+Methods /
+OOP /
+FileIO_Exceptions /
 
 You can find these files inside: Sections3_Project> src >
